@@ -29,7 +29,8 @@ The paper is organised as follows:
 
 ```
 .
-├── H∞_Control_For_Seismic_Pounding_Prevention.pdf   # The paper
+├── H∞_Control_For_Seismic_Pounding_Prevention.pdf   
+├── LICENSE.pdf   
 └── README.md
 ```
 
